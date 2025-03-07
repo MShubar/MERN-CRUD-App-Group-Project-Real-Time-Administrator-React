@@ -3,7 +3,7 @@
 ## Introduction
 The Real Time Administrator is a platform that helps companies efficiently manage employee shifts by allowing them to create user profiles, set up departments and employees, and organize shifts with precise timings. Main Users i.e. the company, can assign shifts to employees, view and update them in a calendar format, and provide employees access to their personal work schedules. The system streamlines shift management, boosts operational efficiency, and enhances employee satisfaction by providing a clear, up-to-date view of work schedules.
 
-# Deployed link: 
+# Deployed link: https://mern-crud-app-group-project-real-time-administrator-react.vercel.app/
 
 # Backend GitHub Repository: https://github.com/MShubar/MERN-CRUD-App-Group-Project-Real-Time-Administrator-Express.git
 
